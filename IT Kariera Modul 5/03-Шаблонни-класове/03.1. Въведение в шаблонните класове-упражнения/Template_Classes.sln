@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Box_T", "..\..\..\..\..\..\source\repos\Template_Classes\Box_T\Box_T.csproj", "{21CFF3AA-5EE1-4182-8058-78742CAAF1CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21CFF3AA-5EE1-4182-8058-78742CAAF1CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21CFF3AA-5EE1-4182-8058-78742CAAF1CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21CFF3AA-5EE1-4182-8058-78742CAAF1CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21CFF3AA-5EE1-4182-8058-78742CAAF1CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20AE7F09-6112-459C-87B1-E528E171EA9A}
+	EndGlobalSection
+EndGlobal

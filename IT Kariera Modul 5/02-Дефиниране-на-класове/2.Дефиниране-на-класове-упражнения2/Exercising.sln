@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RacionalNumber", "..\..\..\..\..\..\source\repos\RacionalNumber\RacionalNumber.csproj", "{189B99E1-56C8-43FD-87E4-DA618D654FE7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "An irreducible fraction", "..\..\..\..\..\..\source\repos\An irreducible fraction\An irreducible fraction.csproj", "{AA38A06E-E7BC-4F25-9A7B-1DA0EE0BBCE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Even_Number", "..\..\..\..\..\..\source\repos\Odd_Number\Even_Number.csproj", "{5971787B-BD07-46DB-8BE1-D9EA6F9267B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odd_Numbers", "..\..\..\..\..\..\source\repos\Odd_Numbers\Odd_Numbers.csproj", "{185DDB77-65CA-48FD-BB1F-DEF5BCABB602}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number_Multiple_Of_K", "..\..\..\..\..\..\source\repos\Number_Multiple_Of_K\Number_Multiple_Of_K.csproj", "{9A364ED4-2266-424B-8949-DA6E9A9AE121}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{189B99E1-56C8-43FD-87E4-DA618D654FE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{189B99E1-56C8-43FD-87E4-DA618D654FE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{189B99E1-56C8-43FD-87E4-DA618D654FE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{189B99E1-56C8-43FD-87E4-DA618D654FE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA38A06E-E7BC-4F25-9A7B-1DA0EE0BBCE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA38A06E-E7BC-4F25-9A7B-1DA0EE0BBCE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA38A06E-E7BC-4F25-9A7B-1DA0EE0BBCE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA38A06E-E7BC-4F25-9A7B-1DA0EE0BBCE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5971787B-BD07-46DB-8BE1-D9EA6F9267B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5971787B-BD07-46DB-8BE1-D9EA6F9267B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5971787B-BD07-46DB-8BE1-D9EA6F9267B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5971787B-BD07-46DB-8BE1-D9EA6F9267B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{185DDB77-65CA-48FD-BB1F-DEF5BCABB602}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{185DDB77-65CA-48FD-BB1F-DEF5BCABB602}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{185DDB77-65CA-48FD-BB1F-DEF5BCABB602}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{185DDB77-65CA-48FD-BB1F-DEF5BCABB602}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A364ED4-2266-424B-8949-DA6E9A9AE121}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A364ED4-2266-424B-8949-DA6E9A9AE121}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A364ED4-2266-424B-8949-DA6E9A9AE121}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A364ED4-2266-424B-8949-DA6E9A9AE121}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A3A9D9B-D149-4A4C-A80F-42D818D8E262}
+	EndGlobalSection
+EndGlobal
