@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayCreator", "..\..\..\..\..\..\source\repos\Template_methods_and_interfaces\ArrayCreator\ArrayCreator.csproj", "{A59FFF82-E5A4-403F-81F6-4A446E4F9DB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Counting", "..\..\..\..\..\..\source\repos\Template_methods_and_interfaces\Counting\Counting.csproj", "{681E9283-6CCB-4F8F-B0CC-CB9B5924EB5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A59FFF82-E5A4-403F-81F6-4A446E4F9DB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A59FFF82-E5A4-403F-81F6-4A446E4F9DB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A59FFF82-E5A4-403F-81F6-4A446E4F9DB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A59FFF82-E5A4-403F-81F6-4A446E4F9DB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{681E9283-6CCB-4F8F-B0CC-CB9B5924EB5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{681E9283-6CCB-4F8F-B0CC-CB9B5924EB5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{681E9283-6CCB-4F8F-B0CC-CB9B5924EB5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{681E9283-6CCB-4F8F-B0CC-CB9B5924EB5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3A9E681-10AE-45DB-ADB6-C68C15DEF3E6}
+	EndGlobalSection
+EndGlobal
