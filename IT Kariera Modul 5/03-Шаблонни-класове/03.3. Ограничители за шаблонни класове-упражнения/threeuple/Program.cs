@@ -15,7 +15,9 @@ namespace threeuple
             Threeuple<string, int, string> secondTuple = new Threeuple<string, int, string >(arr2[0], int.Parse(arr2[1]), arr2[2]);
             Threeuple< string, double, string> thirdTuple = new Threeuple<string, double, string>(arr3[0], double.Parse(arr3[1]), arr3[2]);
             Console.WriteLine(firstTuple);
+            Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine(secondTuple);
+            Console.ResetColor();
             Console.WriteLine(thirdTuple);
         }
     }
